@@ -27,6 +27,13 @@
 	transform: rotate(180deg);
 }
 
+<<<<<<< HEAD
+.chriss-section {
+  background-color: slategrey;
+  color: white;
+}
+
+=======
 /* Tyler Blake's styling */
 .tylers-section {
 	text-align: center;
@@ -103,3 +110,4 @@ animation:rainbow 3s infinite;
 90% {color: #8000ff;}
 100% {color: #ff0080;}
 }
+>>>>>>> master
