@@ -4,8 +4,8 @@ Code Louisville Project
 Practice some Git, some HTML, and some CSS
 
 Start by cloning this repo to your local machine:
-1. Navigate to a folder where you want to pull this repo down to, I recommend creating a "development" folder in your "My Documents" folder, or something along this line (also, do all of this in the command line)
-2. Clone the repo "git clone https://github.com/emcdow123/basiccodelousite.git"
+1. Navigate to a folder where you want to pull this repo down to, I recommend creating a "development" folder in your "My Documents" folder, or something along this line (also, do all of this in the command line)  
+2. Clone the repo "git clone https://github.com/emcdow123/basiccodelousite.git"  
 3. And now you have the repo on your local machine!
 
 Create a new branch, and call it anything you want:
